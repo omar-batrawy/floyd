@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500937762277",
+    "project_id": "floyd-center-app-2ad31",
+    "storage_bucket": "floyd-center-app-2ad31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500937762277:android:8a0aa4a4c0c4b309063b0c",
+        "android_client_info": {
+          "package_name": "com.floyedapp.Floyedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU66G8Z-QSBFBu8UIk1w3Ot3ozKFCyDS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
